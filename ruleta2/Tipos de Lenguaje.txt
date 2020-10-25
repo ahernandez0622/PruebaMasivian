@@ -1,0 +1,5 @@
+Se manejaron los siguientes lenguajes de programación:
+
+-HTML5, 
+-PHP, 
+-Javascript 
